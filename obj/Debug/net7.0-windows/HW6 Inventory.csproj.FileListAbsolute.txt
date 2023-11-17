@@ -1,0 +1,36 @@
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\bin\Debug\net7.0-windows\HW6 Inventory.exe
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\bin\Debug\net7.0-windows\HW6 Inventory.deps.json
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\bin\Debug\net7.0-windows\HW6 Inventory.runtimeconfig.json
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\bin\Debug\net7.0-windows\HW6 Inventory.dll
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\bin\Debug\net7.0-windows\HW6 Inventory.pdb
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.csproj.AssemblyReference.cache
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\obj\Debug\net7.0-windows\HW6_Inventory.MainForm.resources
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.csproj.GenerateResource.cache
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.AssemblyInfoInputs.cache
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.AssemblyInfo.cs
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.csproj.CoreCompileInputs.cache
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.dll
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\obj\Debug\net7.0-windows\refint\HW6 Inventory.dll
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.pdb
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.genruntimeconfig.cache
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\obj\Debug\net7.0-windows\ref\HW6 Inventory.dll
+C:\Users\timot\OneDrive\Desktop\HW6 Inventory\obj\Debug\net7.0-windows\HW6_Inventory.AddItem.resources
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\bin\Debug\net7.0-windows\HW6 Inventory.exe
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\bin\Debug\net7.0-windows\HW6 Inventory.deps.json
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\bin\Debug\net7.0-windows\HW6 Inventory.runtimeconfig.json
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\bin\Debug\net7.0-windows\HW6 Inventory.dll
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\bin\Debug\net7.0-windows\HW6 Inventory.pdb
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.csproj.AssemblyReference.cache
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\obj\Debug\net7.0-windows\HW6_Inventory.AddItem.resources
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\obj\Debug\net7.0-windows\HW6_Inventory.MainForm.resources
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.csproj.GenerateResource.cache
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.AssemblyInfoInputs.cache
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.AssemblyInfo.cs
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.csproj.CoreCompileInputs.cache
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.dll
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\obj\Debug\net7.0-windows\refint\HW6 Inventory.dll
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.pdb
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\obj\Debug\net7.0-windows\HW6 Inventory.genruntimeconfig.cache
+C:\Users\timot\OneDrive\Desktop\NWACC\GUI\HW6 Inventory\obj\Debug\net7.0-windows\ref\HW6 Inventory.dll
